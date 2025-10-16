@@ -1,0 +1,8 @@
+/* Tailwind entry point where we can sprinkle any global tweaks or design tokens for the app. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
